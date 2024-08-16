@@ -1,0 +1,12 @@
+.nav {
+    padding: 1rem;
+    background-color: #4f4f4f;
+    color: #fff 
+}
+
+.ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    gap: 3rem;
+}

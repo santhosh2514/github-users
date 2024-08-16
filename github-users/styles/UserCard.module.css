@@ -1,0 +1,25 @@
+.usercard {
+    display: flex;
+    padding: 10px;
+    border-radius: 4px;
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 1rem;
+  }
+
+  .image_container {
+   padding-right: 2rem;
+  }
+
+.avatar {
+  width: 100px;
+  height: 100px;
+  margin-top: 1rem;
+  margin-right: 20px;
+}
+
+.username {
+    margin-top: 0.5rem;
+    font-size: 18px;
+    font-weight: bold;
+  }
